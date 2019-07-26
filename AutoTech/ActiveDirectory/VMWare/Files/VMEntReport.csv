@@ -1,0 +1,96 @@
+#TYPE Selected.vmware.view.powershell.cmdlets.PoolEntitlement,,
+entitlement,displayName,pool_id
+85,yestelco.com\Adamb,Win7-TPCreditTest
+31,yestelco.com\AdrianT,MI-Win7
+66,yestelco.com\alia,Testing-Team
+64,yestelco.com\amitr,Testing-Team
+42,yestelco.com\andrewv,Operations-W7-ZS-Desktops
+75,yestelco.com\AnilP,Win7-TPCreditTest
+63,yestelco.com\AsnainK,Testing-Team
+15,yestelco.com\bethk,InfrastructureServices
+34,yestelco.com\chrish,MI-Win7
+76,yestelco.com\chriss,Win7-TPCreditTest
+33,yestelco.com\cliffords,MI-Win7
+83,yestelco.com\darrenb,Win7-TPCreditTest
+28,yestelco.com\davidt,IS-Win7
+4,yestelco.com\Development (SG),Development-Desktops
+67,yestelco.com\edh,Testing-Team
+47,yestelco.com\elliotc,Operations-W7-ZS-Desktops
+80,yestelco.com\elliotc,Win7-TPCreditTest
+81,yestelco.com\elvinaa,Win7-TPCreditTest
+58,yestelco.com\EmmetN,Ops-ZS-Reporting-Desktop
+52,yestelco.com\GarethT,Operations-W7-ZS-Desktops
+69,yestelco.com\GarethT,View-Admin-Desktop
+19,yestelco.com\GoodwinN,InfrastructureServices
+29,yestelco.com\GoodwinN,IS-Win7
+65,yestelco.com\HarryO,Testing-Team
+30,yestelco.com\imrans,MI-Win7
+24,yestelco.com\ImranT,IS-Win7
+26,yestelco.com\Infrastructure Services,IS-Win7
+82,yestelco.com\JackK,Win7-TPCreditTest
+87,yestelco.com\JackW,Win7-TPCreditTest
+79,yestelco.com\jamies,Win7-TPCreditTest
+61,yestelco.com\johnk,Sales-W7-Desktops
+14,yestelco.com\JosephF,InfrastructureServices
+43,yestelco.com\JoyceD,Operations-W7-ZS-Desktops
+13,yestelco.com\kafyatr,InfrastructureServices
+50,yestelco.com\LouiseB,Operations-W7-ZS-Desktops
+88,yestelco.com\LynseyM,Win7-TPCreditTest
+22,yestelco.com\matthewl,IS-Win7
+23,yestelco.com\MoS,IS-Win7
+44,yestelco.com\MoS,Operations-W7-ZS-Desktops
+49,yestelco.com\NiallM,Operations-W7-ZS-Desktops
+45,yestelco.com\nicolag,Operations-W7-ZS-Desktops
+32,yestelco.com\NikkiC,MI-Win7
+16,yestelco.com\paulk,InfrastructureServices
+0,yestelco.com\PeterEn,Billing-W7-Desktops
+5,yestelco.com\PeterEn,Development-Desktops
+18,yestelco.com\PeterEn,InfrastructureServices
+27,yestelco.com\PeterEn,IS-Win7
+35,yestelco.com\PeterEn,MI-Win7
+53,yestelco.com\PeterEn,Operations-W7-ZS-Desktops
+57,yestelco.com\PeterEn,Ops-ZES-W7-Desktops
+59,yestelco.com\PeterEn,Ops-ZS-Reporting-Desktop
+72,yestelco.com\PeterEn,VISPL-BI
+25,yestelco.com\philw,IS-Win7
+89,yestelco.com\RachelC,Win7-TPCreditTest
+41,yestelco.com\rebeccah,Operations-W7-ZS-Desktops
+48,yestelco.com\robertg,Operations-W7-ZS-Desktops
+86,yestelco.com\robertg,Win7-TPCreditTest
+17,yestelco.com\rossh,InfrastructureServices
+78,yestelco.com\SatpalB,Win7-TPCreditTest
+77,yestelco.com\Sherrileahh,Win7-TPCreditTest
+6,yestelco.com\stephenr,Development-Desktops
+9,yestelco.com\stephenr,EconnectDev
+20,yestelco.com\stephenr,InfrastructureServices
+37,yestelco.com\stephenr,MI-Win7
+8,yestelco.com\stevep,EconnectDev
+51,yestelco.com\stevep,Operations-W7-ZS-Desktops
+70,yestelco.com\Team Amazing (SG),View-Admin-Desktop
+91,yestelco.com\TerriT,Win7-VISPL
+84,yestelco.com\VaibhavP,Win7-TPCreditTest
+74,yestelco.com\Voda DBAs (SG),Voda-DBAs
+1,yestelco.com\VPS VDI Billing Users (SG),Billing-W7-Desktops
+2,yestelco.com\VPS VDI Commercial Users (SG),Commercial-Reporting-W7-Desktops
+3,yestelco.com\VPS VDI Commercial Users (SG),Commercial-W7-Desktops
+10,yestelco.com\VPS VDI Egypt VPS End Users (SG),EgyptVPSEndUserDesk
+11,yestelco.com\VPS VDI Finance Users (SG),Finance-W7-Desktops
+68,yestelco.com\VPS VDI GP Test,VDI-GP-Testing
+12,yestelco.com\VPS VDI IDS Desktop Users,IDS-Desktop
+21,yestelco.com\VPS VDI Internal Solutions (SG),Internal-Solutions
+36,yestelco.com\VPS VDI MI Users (SG),MI-Win7
+38,yestelco.com\VPS VDI Newark Billing (SG),NewarkBilling-W7-Desktops
+39,yestelco.com\VPS VDI Newbury BI Users,Newbury-BI
+40,yestelco.com\VPS VDI Newbury Commissions Users (SG),Newbury-Commissions
+55,yestelco.com\VPS VDI Operations Commissions Users (SG),Ops-Comm-W7-Desktops
+56,yestelco.com\VPS VDI Operations Zygo Enterprise Service Users (SG),Ops-ZES-W7-Desktops
+54,yestelco.com\VPS VDI Operations Zygo Service OOH (SG),Operations-W7-ZSOOH-Desktops
+60,yestelco.com\VPS VDI P12 Accenture Users (SG),P12AccentureDesktops
+62,yestelco.com\VPS VDI Sales Users (SG),Sales-W7-Desktops
+90,yestelco.com\VPS VDI Teleperformance Users (SG),Win7-TPCreditTest
+71,yestelco.com\VPS VDI VISPL BI Users (SG),VISPL-BI
+73,yestelco.com\VPS VDI VISPL Commissions Users (SG),VISPL-Commissions
+92,yestelco.com\VPS VDI VISPL W7 Users (SG),Win7-VISPL
+46,yestelco.com\VPS VDI W7 Operations Zygo Service Users (SG),Operations-W7-ZS-Desktops
+7,yestelco.com\VPS VDI Zygo Disclosures (SG),DisclosuresTeam
+93,yestelco.com\VPS VDI Zygo FRS Desktop Users (SG),ZygoFRS
