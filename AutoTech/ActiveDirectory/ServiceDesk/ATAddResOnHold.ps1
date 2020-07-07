@@ -23,8 +23,8 @@ Exit
 }
 
 ##API Settings
-$ApiKey = "9839B4DB-20FC-494E-A36E-4F4A4F1E5A99"
-$SdpUri = "http://servicedesk.yestelco.com:8082"
+$ApiKey = "..."
+$SdpUri = "http://servicedesk.contoso.com:8082"
 
 ##Counter Set
 $LC = 0
@@ -36,7 +36,7 @@ if (($lu[$LC]) -lt $responseperiod) {
 $urlwo = $wo[$LC]
 $ResFN = $fn[$LC]
 $Uri = $SdpUri + "/sdpapi/request/$urlwo/resolution"
-$resolution = "Your user account creation request for $ResFN has been closed as unsuccessful by AutoTech. This was due to the request being placed on hold because of an issue for more than 10 days with no response. If you require assistance, please contact VPSServiceDesk quoting your request ID, $urlwo."
+$resolution = "Your user account creation request for $ResFN has been closed as unsuccessful by AutoTech. This was due to the request being placed on hold because of an issue for more than 10 days with no response. If you require assistance, please contact ServiceDesk quoting your request ID, $urlwo."
 
 
    
