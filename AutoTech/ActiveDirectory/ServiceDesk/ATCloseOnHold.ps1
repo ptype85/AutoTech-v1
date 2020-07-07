@@ -23,8 +23,8 @@ Exit
 }
 
 ##API Settings
-$ApiKey = "9839B4DB-20FC-494E-A36E-4F4A4F1E5A99"
-$SdpUri = "http://servicedesk.yestelco.com:8082"
+$ApiKey = "..."
+$SdpUri = "http://servicedesk.contoso.com:8082"
 
 ##Counter Set
 $LC = 0
