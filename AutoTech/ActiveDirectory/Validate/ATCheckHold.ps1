@@ -34,7 +34,7 @@ $re = 1 #Restricted User Check
 ##Variable Store
 
 #$at = #AllTasks
-$domain = "yestelco.com\"
+$domain = "contoso.com\"
 #$ru = Restricted User List
 #$uv = User validation Result
 #$rr = Restircted User Result
@@ -42,9 +42,9 @@ $domain = "yestelco.com\"
 
 ##Email Settings
 
-$fromAddr = "AutoTech@yestelco.com" # Enter the FROM address for the e-mail alert
-$toAddr = "pe@yestelco.com" # Enter the TO address for the e-mail alert
-$smtpsrv = "172.16.11.163" # Enter the FQDN or IP of a SMTP relay
+$fromAddr = "AutoTech@contoso.com" # Enter the FROM address for the e-mail alert
+$toAddr = "pe@contoso.com" # Enter the TO address for the e-mail alert
+$smtpsrv = "172.0.0.10" # Enter the FQDN or IP of a SMTP relay
 
 ###########################
 
@@ -61,7 +61,7 @@ $tu += $at.VALUE5	#Read Template User from Input
 $ue = @()
 $ue += $at.VALUE2
 $VEnt = Import-Csv C:\AutoTech\ActiveDirectory\VMWare\Files\VMEntReport.csv
-$GNO = $VEnt.displayname -replace "yestelco.com\\*" #Removing yestelco.com from import
+$GNO = $VEnt.displayname -replace "contoso.com\\*" #Removing contoso.com from import
 $FullName = @()
 $FullName += $at.Value1
 
