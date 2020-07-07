@@ -6,4 +6,4 @@
 Set-ExecutionPolicy RemoteSigned
 
 $date = Get-Date -Format ddMMyy
-invoke-sqlcmd -inputfile "C:\AutoTech\ActiveDirectory\ServiceDesk\GetLastTUpdate.sql" -ServerInstance "wheeljack.yestelco.com" | Export-CSV "C:\AutoTech\ActiveDirectory\ServiceDesk\Files\OnHold\RequestOnHold$date.csv" -NoTypeInformation
+invoke-sqlcmd -inputfile "C:\AutoTech\ActiveDirectory\ServiceDesk\GetLastTUpdate.sql" -ServerInstance "dbserver.yestelco.com" | Export-CSV "C:\AutoTech\ActiveDirectory\ServiceDesk\Files\OnHold\RequestOnHold$date.csv" -NoTypeInformation
